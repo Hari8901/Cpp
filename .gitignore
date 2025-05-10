@@ -1,0 +1,31 @@
+# Ignore Visual Studio folders
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+*.obj
+*.exe
+*.log
+*.pdb
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+
+# Ignore backup and temp files
+*.bak
+*.tmp
+*.cache
+*.ilk
+
+# Ignore debug and release folders
+Debug/
+Release/
+build/
+out/
